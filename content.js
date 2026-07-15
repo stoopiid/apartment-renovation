@@ -46,7 +46,7 @@ window.CONTENT = {
         full: "Outer wall insulation (pro)",
         n: "04",
         chip: "Outer wall · pro",
-        date: "",
+        date: "May 2026",
       },
       {
         id: "plasterboard",
@@ -62,8 +62,15 @@ window.CONTENT = {
         full: "Ceiling plasterboard (me)",
         n: "06",
         chip: "Ceiling · me",
-        date: "",
-        future: true,
+        date: "June 2026"
+      },
+      {
+        id: "plasterwork",
+        short: "Plasterwork",
+        full: "Plasterwork (pro)",
+        n: "07",
+        chip: "Plasterwork · pro",
+        date: "July 2026",
       },
     ],
     rooms: [
@@ -73,7 +80,7 @@ window.CONTENT = {
         name: "Kitchen",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/kitchen-1.jpg", "photos/kitchen-2.jpg", "photos/kitchen-3.jpg", "photos/kitchen-4.jpg", "photos/kitchen-5.jpg", "photos/kitchen-6.jpg"],
+        images: ["photos/kitchen-1.jpg", "photos/kitchen-2.jpg", "photos/kitchen-3.jpg", "photos/kitchen-4.jpg", "photos/kitchen-5.jpg", "photos/kitchen-6.jpg", "photos/kitchen-7.jpg"],
       },
       {
         id: "bathroom",
@@ -81,7 +88,7 @@ window.CONTENT = {
         name: "Bathroom",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/bathroom-1.jpg", "photos/bathroom-2.jpg", "photos/bathroom-3.jpg", "photos/bathroom-4.jpg", "photos/bathroom-5.jpg", "photos/bathroom-6.jpg"],
+        images: ["photos/bathroom-1.jpg", "photos/bathroom-2.jpg", "photos/bathroom-3.jpg", "photos/bathroom-4.jpg", "photos/bathroom-5.jpg", "photos/bathroom-6.jpg", "photos/bathroom-7.jpg"],
       },
       {
         id: "bedroom",
@@ -89,7 +96,7 @@ window.CONTENT = {
         name: "Bedroom",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/bedroom-1.jpg", "photos/bedroom-2.jpg", "photos/bedroom-3.jpg", "photos/bedroom-4.jpg", "photos/bedroom-5.jpg", "photos/bedroom-6.jpg"],
+        images: ["photos/bedroom-1.jpg", "photos/bedroom-2.jpg", "photos/bedroom-3.jpg", "photos/bedroom-4.jpg", "photos/bedroom-5.jpg", "photos/bedroom-6.jpg", "photos/bedroom-7.jpg"],
       },
       {
         id: "living-room",
@@ -97,7 +104,7 @@ window.CONTENT = {
         name: "Living Room",
         aspect: "16 / 10",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg"],
+        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg", "photos/living-room-6.jpg"],
       },
       {
         id: "office",
@@ -105,7 +112,7 @@ window.CONTENT = {
         name: "Office Corner",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg"],
+        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg", "photos/office-6.jpg"],
       },
     ],
   },
@@ -152,7 +159,7 @@ window.CONTENT = {
         full: "Buitenmuurisolatie (vakman)",
         n: "04",
         chip: "Buitenmuur · pro",
-        date: "",
+        date: "mei 2026",
       },
       {
         id: "plasterboard",
@@ -168,8 +175,15 @@ window.CONTENT = {
         full: "Gipsplaten plafond (zelf)",
         n: "06",
         chip: "Plafond · zelf",
-        date: "",
-        future: true,
+        date: "juni 2026"
+      },
+      {
+        id: "plasterwork",
+        short: "Stucwerk",
+        full: "Stucwerk (vakman)",
+        n: "07",
+        chip: "Stucwerk · pro",
+        date: "juli 2026"
       },
     ],
     rooms: [
@@ -179,7 +193,7 @@ window.CONTENT = {
         name: "Keuken",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/kitchen-1.jpg", "photos/kitchen-2.jpg", "photos/kitchen-3.jpg", "photos/kitchen-4.jpg", "photos/kitchen-5.jpg", "photos/kitchen-6.jpg"],
+        images: ["photos/kitchen-1.jpg", "photos/kitchen-2.jpg", "photos/kitchen-3.jpg", "photos/kitchen-4.jpg", "photos/kitchen-5.jpg", "photos/kitchen-6.jpg", "photos/kitchen-7.jpg"],
       },
       {
         id: "bathroom",
@@ -187,7 +201,7 @@ window.CONTENT = {
         name: "Badkamer",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/bathroom-1.jpg", "photos/bathroom-2.jpg", "photos/bathroom-3.jpg", "photos/bathroom-4.jpg", "photos/bathroom-5.jpg", "photos/bathroom-6.jpg"],
+        images: ["photos/bathroom-1.jpg", "photos/bathroom-2.jpg", "photos/bathroom-3.jpg", "photos/bathroom-4.jpg", "photos/bathroom-5.jpg", "photos/bathroom-6.jpg", "photos/bathroom-7.jpg"],
       },
       {
         id: "bedroom",
@@ -195,7 +209,7 @@ window.CONTENT = {
         name: "Slaapkamer",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/bedroom-1.jpg", "photos/bedroom-2.jpg", "photos/bedroom-3.jpg", "photos/bedroom-4.jpg", "photos/bedroom-5.jpg", "photos/bedroom-6.jpg"],
+        images: ["photos/bedroom-1.jpg", "photos/bedroom-2.jpg", "photos/bedroom-3.jpg", "photos/bedroom-4.jpg", "photos/bedroom-5.jpg", "photos/bedroom-6.jpg", "photos/bedroom-7.jpg"],
       },
       {
         id: "living-room",
@@ -203,7 +217,7 @@ window.CONTENT = {
         name: "Woonkamer",
         aspect: "16 / 10",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg"],
+        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg", "photos/living-room-7.jpg"],
       },
       {
         id: "office",
@@ -211,7 +225,7 @@ window.CONTENT = {
         name: "Werkhoek",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg"],
+        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg", "photos/office-7.jpg"],
       },
     ],
   },
