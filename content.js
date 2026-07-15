@@ -104,7 +104,7 @@ window.CONTENT = {
         name: "Living Room",
         aspect: "16 / 10",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg", "photos/living-room-6.jpg"],
+        images: ["photos/living-room-1.jpg", "photos/living-room-2.jpg", "photos/living-room-3.jpg", "photos/living-room-4.jpg", "photos/living-room-5.jpg", "photos/living-room-6.jpg", "photos/living-room-7.jpg"],
       },
       {
         id: "office",
@@ -112,7 +112,7 @@ window.CONTENT = {
         name: "Office Corner",
         aspect: "4 / 3",
         captions: ["", "", "", "", "", ""],
-        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg", "photos/office-6.jpg"],
+        images: ["photos/office-1.jpg", "photos/office-2.jpg", "photos/office-3.jpg", "photos/office-4.jpg", "photos/office-5.jpg", "photos/office-6.jpg", "photos/office-7.jpg"],
       },
     ],
   },
